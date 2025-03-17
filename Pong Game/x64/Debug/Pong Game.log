@@ -1,0 +1,84 @@
+﻿  pong.cpp
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(146,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(146,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(184,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(184,21): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(184,21): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(184,21): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(184,21): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(185,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(185,21): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(185,21): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(185,21): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(185,21): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(204,26): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(204,26): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(204,26): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(204,26): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(204,26): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(210,26): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(210,26): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(210,26): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(210,26): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(210,26): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(221,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(221,23): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(221,23): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(221,23): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(221,23): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(222,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(222,23): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(222,23): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(222,23): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(222,23): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(241,28): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(241,28): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(241,28): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(241,28): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(241,28): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(247,28): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(247,28): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(247,28): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(247,28): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(247,28): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(267,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(267,22): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(267,22): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(267,22): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(267,22): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(268,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(268,22): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(268,22): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(268,22): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(268,22): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(283,23): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(283,23): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(283,23): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(283,23): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(283,23): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(284,23): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(284,23): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(284,23): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(284,23): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(284,23): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(301,38): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(301,38): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(301,38): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(301,38): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(301,38): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(302,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(302,39): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(302,39): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(302,39): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(302,39): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(315,38): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(315,38): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(315,38): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(315,38): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(315,38): warning C4244:         ]
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(316,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(316,39): warning C4244:         with
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(316,39): warning C4244:         [
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(316,39): warning C4244:             T=float
+C:\Users\Wei Jun\source\repos\Pong Game\Pong Game\pong.cpp(316,39): warning C4244:         ]
+  Pong Game.vcxproj -> C:\Users\Wei Jun\source\repos\Pong Game\x64\Debug\Pong Game.exe
